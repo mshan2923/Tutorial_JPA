@@ -1,0 +1,7 @@
+참고 : https://kim-oriental.tistory.com/20  (도움 안됨)
+
+https://growth-coder.tistory.com/111
+
+오류 리스트
+    build.gradle에서 SQL 버전문제 + 의존성 세팅에서 설치 안함
+    생성 안하고 application.properties 의 spring.jpa.hibernate.ddl-auto=create-drop = Update 해서
