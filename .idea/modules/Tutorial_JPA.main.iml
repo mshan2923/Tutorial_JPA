@@ -11,6 +11,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
+          <factory-entry name="Tutorial_JPA.main" />
           <factory-entry name="entityManagerFactory" value="1c45953d-6415-4969-8cd1-b39a201c2be0" />
         </datasource-mapping>
         <naming-strategy-map />

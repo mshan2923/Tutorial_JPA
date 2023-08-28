@@ -7,8 +7,7 @@ import lombok.Setter;
 
 import javax.swing.*;
 
-@Entity
-//@AllArgsConstructor
+@Entity//DB , 웹통신 쓰기위해
 @Getter
 @Setter
 @Table(name = "memo")
